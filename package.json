@@ -1,7 +1,7 @@
 {
   "name": "@clocklimited/validity-required",
   "description": "Basic validity style validator to ensure a required property is present in an object.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "@clocklimited/validity": "^1.1.3"
   },
